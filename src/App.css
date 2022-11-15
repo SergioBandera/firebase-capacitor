@@ -1,0 +1,36 @@
+/* 
+.App {
+  text-align: center;
+}
+
+.header-content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-container{
+  display:flex;
+  background-color: beige;
+  flex-direction: column;
+  width: 30%; 
+  border: 1px solid black;
+  flex-wrap: wrap;
+  margin-bottom: 1em;
+  align-content: center;
+}
+.div-container{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+li{
+ list-style: none;
+ width: 100%;
+ background-color: aliceblue;
+ border: 1px white solid;
+ border-right: 1px black solid;
+ border-left: 1px black solid;
+} */
